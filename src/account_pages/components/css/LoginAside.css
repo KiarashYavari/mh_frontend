@@ -1,0 +1,14 @@
+#login-logo{
+    height: 8vw ;
+    width: 8vw;
+}
+
+#login-aside{
+    background-color: white;
+    padding-top:10vw;
+    padding-bottom: 10vw;
+    padding-left: 10vw;
+    padding-right: 8vw;
+    border-radius: 1vw;
+    
+}

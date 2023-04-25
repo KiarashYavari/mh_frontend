@@ -1,0 +1,36 @@
+#login-form{
+    background-color: white;
+    border-radius: 1vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+
+}
+
+.login-inputs{
+    width:fit-content;
+    margin-left: 2.8vw;
+    margin-top:0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+#login-btn-row{
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+#login-forgot-pass{
+    text-decoration: none !important;
+    margin-left: 3vw;
+}
+
+#login-btn{
+    margin-top: 0.3vw;
+}
+
+#login-error{
+    color:rgb(217, 0, 0);
+}
