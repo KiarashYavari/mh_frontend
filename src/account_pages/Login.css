@@ -1,0 +1,23 @@
+#login-page{
+    background-color: rgb(200, 200, 200);
+    border-radius: 0.3vw;
+    width: 85vw !important;
+    height: 49.5vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    margin-top: 0.3vw;
+    margin-bottom: 0.3vw;
+}
+
+#login-row{
+    background-color: rgb(230, 230, 230);
+    border-radius: 0.6vw;
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9vw;
+    margin-bottom: 5vw;
+    padding:1vw;
+}

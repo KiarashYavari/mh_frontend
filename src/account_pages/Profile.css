@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(225, 225, 225);
+}
+
+#profile-main{
+    background-color: whitesmoke;
+    margin-bottom: 2vw;
+}
+
+#user-profile-head{
+    padding:0.45vw;
+    background-color: white;
+    box-shadow: 1px 3px whitesmoke;
+}
+
+.profile-imgs{
+    width:3vw;
+    height: 2.7vw;
+    border-radius: 1.3vw;
+}
+
+#profile-pic{
+    display: inline-flex;
+    margin-left:50vw;
+    margin-right: 2vw;
+    width:fit-content;
+}
+
+#profile-name{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left:0.3vw;
+}
+
+#profile-body{
+    border-color: blue;
+    border-style: solid;
+}
+
+.inline-display{
+    display: inline-flex;
+}
+
+.pie-chart-box{
+    background-color: white;
+    border-radius: 0.7vw;
+    margin-right: 0.4vw;
+    margin-left: 0.7vw;
+}
+
+#remain-days-box{
+    border-radius: 1vw;
+    margin:0.5vw;
+    background-color: rgb(222, 222, 222);
+}
+
+#profile-days-left{
+    text-align: center;
+    color:white;
+    width:fit-content;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    border-radius: 0.3vw;
+    margin-top: 2vw;
+    margin-left: 3vw;
+}
+
+.chart-size{
+    width: 8vw !important;
+    height: 8vw !important;
+}
+
+#remain-days-num{
+    margin-left: 6.1vw;
+}
+
+#profile-bar-canvas{
+    width: 30vw !important;
+    height: 12vw !important;
+    font-size: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#api-key-box{
+    border-radius: 0.5vw;
+}
